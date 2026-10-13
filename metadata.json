@@ -1,0 +1,8 @@
+{
+  "name": "Shastra Nirantara Darshana",
+  "description": "ಸೌಂದರ್ಯಲಹರೀ, ವಾಮದೇವ್ಯ ಸಾಮೋಪಾಸನೆ, ಗರುಡಪುರಾಣ ಮಣಿಮಾನ್ ವಿವಾದ ಹಾಗೂ ಶಂಕರನಿಂದನೆಯ ಕುರಿತ ವಿಮರ್ಶಾ ಲೇಖನಗಳ ಮತ್ತು ದೇವತಾ ಉಪಾಸನೆಯ ಪವಿತ್ರ ಸಂಗ್ರಹ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "shastra-nirantara-darshana",
+  "compatibility_date": "2026-09-25",
+  "account_id": "45cea0e0fd2453888743de39962ddaef",
+  "assets": {
+    "directory": "./dist",
+    "not_found_handling": "single-page-application"
+  }
+}
